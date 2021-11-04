@@ -13,3 +13,8 @@
 - selection sort
 - none of these
 # Solution
+- divied in half
+- double
+- binary search
+
+Note they try to trick you with selction sorting. But it's "merge" sorting that "halves" the given set. Selection sorting doesn't employ doubling or halfing to solve the sorting issues. 
