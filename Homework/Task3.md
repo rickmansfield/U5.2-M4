@@ -11,4 +11,5 @@
 - Rabin-Karp Algorithm
 - Linear Search
 
-# Solution
+# Solution 
+- Binary
