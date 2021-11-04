@@ -1,6 +1,6 @@
 # Unit 5.2 M4 Searching & Recursion 11/04/2021
 
-## [CoLab Link](https://colab.research.google.com/drive/1SWD5isKlMoQvabdSmLWxhZlhWFJjelD7?usp=sharing) 
+## [CoLab Link](https://colab.research.google.com/drive/1SWD5isKlMoQvabdSmLWxhZlhWFJjelD7?usp=sharing#scrollTo=_Aab-4-034RP) 
 ## [Video Link]()
 
 # Searching and Recursion
