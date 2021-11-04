@@ -13,3 +13,5 @@
 
 # Solution 
 - Binary
+
+Note the algorithm is halving the array each time. 

@@ -1,15 +1,12 @@
 def csBinarySearch(nums, target):
-    if not nums:
-        return -1
-    start = 0
-    end = len(nums)-1
+    start, end = 0, len(nums)-1
     while start <= end:
         mid = (start + end) // 2
-        if nums[mid] == target: 
+        if target == nums[mid]:
             if mid == 0 or nums[mid-1] < target:
                 return mid
             else:
-                end = mid - 1 
+                end = mid - 1
         elif target < nums[mid]:
             end = mid - 1
         else:

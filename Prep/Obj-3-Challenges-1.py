@@ -12,7 +12,7 @@ def myBinarySearch(nums, target):
     start = 0
     end = len(nums) -1
     while start <= end:
-        mid = start + end // 2
+        mid = (start + end) // 2
         if nums[mid] == target:
             return True
         elif target < nums[mid]:
@@ -22,3 +22,5 @@ def myBinarySearch(nums, target):
     return -1
 
 print(myBinarySearch([1, 2, 3, 4, 5 , 6], 3))
+print(myBinarySearch( [-1, 0, 3, 5, 9, 12], 2))
+print(myBinarySearch( [-1, 0, 3, 5, 9, 12], 9))
